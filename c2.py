@@ -72,10 +72,10 @@ logo = """
   .dMMM    .o@^ ^;::---...
  dMMMMMMM@^`       `^^^^
 YMMMUP^
-              Simple C2 Saturns
+              Skyline C2
                    V : 1.2
-              MADE BY : MrSanZz
-             TEAM  : JogjaXploit
+              MADE BY : Putra
+             since  : 2023-2024
 """
 print(Fore.LIGHTMAGENTA_EX + logo)
 try:
